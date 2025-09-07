@@ -1,5 +1,6 @@
-**Análisis de adicción al celular en adolescentes
-**
+**Análisis de adicción al celular en adolescentes**
+
+
 **Descripción**
 
 Este proyecto explora un dataset centrado en el uso del celular por parte de adolescentes, buscando comprender cómo el uso excesivo del dispositivo se relaciona con variables emocionales, conductuales y académicas.

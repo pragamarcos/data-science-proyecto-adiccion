@@ -32,9 +32,9 @@ Modelos de predicción con R² moderado, mostrando potencial para mejorar con fe
 
 **Próximos pasos**
 
-Ajuste de hiperparámetros.
-Creación de nuevas variables derivadas.
-Mejorar la interpretabilidad del modelo.
+- Ajuste de hiperparámetros.
+- Creación de nuevas variables derivadas.
+- Mejorar la interpretabilidad del modelo.
 
 **Cómo usar este proyecto**
 
